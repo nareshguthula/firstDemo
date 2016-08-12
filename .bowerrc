@@ -1,0 +1,5 @@
+{
+    "directory": "web/main/app/bower_components",
+	"strict-ssl": false,
+    "analytics": true
+}
